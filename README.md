@@ -1,4 +1,14 @@
-![logo](https://github.com/sandip9938/sandip9938/blob/master/header-image.png)
+<h1 align="center">
+ <img src="" />
+</h1>
+<h1 align="center">Hi 👋, I'm Sandip Panda</h1>
+<h3 align="center">A passionate Fullstack developer from India</h3>
+
+- 🌱 I’m currently learning **FullStack Devloper**
+
+- 📫 How to reach me **sandippanda577@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Sandip panda) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sandip809609) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sandip Panda) 
 
