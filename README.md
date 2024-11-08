@@ -3,9 +3,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Sandip Panda</h1>
-<h3 align="center">A passionate Fullstack developer from India</h3>
+<h3 align="center">A passionate JAVA developer from India</h3>
 
-- 🌱 I’m currently learning **FullStack Devloper**
+- 🌱 I’m currently learning **FullStack JAVA Devloper**
 
 - 📫 How to reach me **sandippanda577@gmail.com**
 
